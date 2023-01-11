@@ -1,0 +1,6 @@
+/* When the width is between 600px and 900px OR above 1100px - change the appearance of <div> */
+@media screen and (max-width: 1400px) and (min-width: 1200px) {
+    .fontsizeArrengemen {
+        font-size: 26px;
+    }
+}
